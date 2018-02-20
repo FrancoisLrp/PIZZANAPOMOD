@@ -2,6 +2,7 @@
 Mod four spice diavola connecté : http://pizzanapo.fr/index.php?/topic/180-projet-en-cours-spice-diavola-connecté/&page=1
 
 Vidéo de présentation de l'interface : https://www.youtube.com/watch?v=XZTqRmCiPII
+
 Câblage : http://www.zupimages.net/viewer.php?id=18/08/7h6o.png
 
 Placez le fichier dynamique.html dans un dossier "data" situé au même niveau que le .ino
