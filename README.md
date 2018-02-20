@@ -18,7 +18,7 @@ Créer un point d'accès depuis son smartphone ou bien connecter le four à la b
 "const char* ssid = "Hotspot";
 const char* password = "12345678910";" du fichier .ino
 
-Il suffit ensuite de récuper l'adresse IP de l'esp via la console série dans l'ide arduino ou via l'interface de la box/smartphone.
+Il suffit ensuite de récuper l'adresse IP de l'esp via la console série dans l'ide arduino ou via l'interface de la box/smartphone. La création d'un mini DNS sera peut-être envisagée par la suite.
 
 Merci @J-M-L de arduino.cc pour son tuto sur les techniques avancées de serveur web : https://forum.arduino.cc/index.php?topic=511147.0
                                                                                                                              
