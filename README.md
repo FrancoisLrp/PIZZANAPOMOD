@@ -1,8 +1,12 @@
 # PIZZANAPOMOD
-Mod four spice diavola connecté
+Mod four spice diavola connecté : http://pizzanapo.fr/index.php?/topic/180-projet-en-cours-spice-diavola-connecté/&page=1
+
+Vidéo de présentation de l'interface : https://www.youtube.com/watch?v=XZTqRmCiPII
 
 Placez le fichier dynamique.html dans un dossier "data" situé au même niveau que le .ino
 Upload du html via SPIFFS : http://www.instructables.com/id/Using-ESP8266-SPIFFS/
+
+
 
 Merci @J-M-L de arduino.cc pour son tuto sur les techniques avancées de serveur web : https://forum.arduino.cc/index.php?topic=511147.0
                                                                                                                              
