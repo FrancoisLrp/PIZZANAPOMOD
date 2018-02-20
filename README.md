@@ -3,7 +3,7 @@ Mod four spice diavola connecté : http://pizzanapo.fr/index.php?/topic/180-proj
 
 Vidéo de présentation de l'interface : https://www.youtube.com/watch?v=XZTqRmCiPII
 
-Câblage : http://www.zupimages.net/viewer.php?id=18/08/7h6o.png
+Schéma electrique : http://www.zupimages.net/viewer.php?id=18/08/7h6o.png
 
 Placez le fichier dynamique.html dans un dossier "data" situé au même niveau que le .ino
 Upload du html via SPIFFS : http://www.instructables.com/id/Using-ESP8266-SPIFFS/
