@@ -3,7 +3,7 @@ Mod four spice diavola connecté : http://pizzanapo.fr/index.php?/topic/180-proj
 
 Vidéo de présentation de l'interface : https://www.youtube.com/watch?v=XZTqRmCiPII
 
-Schéma electrique : http://www.zupimages.net/viewer.php?id=18/08/7h6o.png
+Schéma electrique : http://www.zupimages.net/viewer.php?id=18/08/7h6o.png (attention les MAX6675 s'alimentent avec le 3.3V de l'esp et non le 5V comme sur le schéma).
 
 Si utilisation de deux thermocouples (non testé, pas certain que l'esp8266 gère deux interfaces SPI) :
 Placez le fichier dynamique.html dans un dossier "data" situé au même niveau que le .ino
