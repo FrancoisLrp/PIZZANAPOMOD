@@ -3,9 +3,12 @@
 #include <max6675.h>
 const char * nomDeFichier = "/dynamique.html";
 
-int ktcSO = 12;
-int ktcCS = 13;
-int ktcCLK = 14;
+int ktcSO = 12;//D6
+int ktcCS = 13;//D7
+int ktcCLK = 14;//D5
+int ktcSO2 = 15;//D8 pas sûr sinon essayer autres pin digital
+int ktcCS2 = 4;//D2 pas sûr sinon essayer autres pin digital
+int ktcCLK2 = 5;//D1 pas sûr sinon essayer autres pin digital
 int etatgeneral=0;
 MAX6675 ktc(ktcCLK, ktcCS, ktcSO);
 const char* ssid = "Hotspot";
